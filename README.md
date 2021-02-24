@@ -1,5 +1,5 @@
 # NLW04
 
-![Alt text](https:\\github.com\JasonVolney\NLW04\blob\master\src\nlw.png "printscreen")
-![Alt text](https:\\github.com\JasonVolney\NLW04\blob\master\src\Wallpaper-1440x900.png "Wallpaper NLW")
+![Alt text](src\nlw.png?raw=true "printscreen")
+![Alt text](src\Wallpaper-1440x900.png?raw=true "Wallpaper NLW")
 
